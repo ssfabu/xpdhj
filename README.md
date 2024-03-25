@@ -1,6 +1,5 @@
-# sosefb.github.io
 <center>
-<span style="font-size:20px">搜色搜索最新地址</span><br>
+<span style="font-size:20px">搜色搜索地址发布</span><br>
 <br />
 <span style="font-size:20px"><a href="https://sose.homes" target="_blank">sose.homes</a></span><br>
 <span style="font-size:20px"><a href="https://sose.mom" target="_blank">sose.mom</a></span><br>
